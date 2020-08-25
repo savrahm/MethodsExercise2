@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MethodsExercise2/1.0.0": {
+      "MethodExercisePart2/1.0.0": {
         "runtime": {
-          "MethodsExercise2.dll": {}
+          "MethodExercisePart2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MethodsExercise2/1.0.0": {
+    "MethodExercisePart2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

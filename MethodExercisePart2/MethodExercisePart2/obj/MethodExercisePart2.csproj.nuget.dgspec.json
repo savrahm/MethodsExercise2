@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarah\\source\\repos\\MethodsExercise\\MethodsExercise2\\MethodsExercise2.csproj": {}
+    "C:\\Users\\sarah\\source\\repos\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarah\\source\\repos\\MethodsExercise\\MethodsExercise2\\MethodsExercise2.csproj": {
+    "C:\\Users\\sarah\\source\\repos\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarah\\source\\repos\\MethodsExercise\\MethodsExercise2\\MethodsExercise2.csproj",
-        "projectName": "MethodsExercise2",
-        "projectPath": "C:\\Users\\sarah\\source\\repos\\MethodsExercise\\MethodsExercise2\\MethodsExercise2.csproj",
+        "projectUniqueName": "C:\\Users\\sarah\\source\\repos\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2.csproj",
+        "projectName": "MethodExercisePart2",
+        "projectPath": "C:\\Users\\sarah\\source\\repos\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2.csproj",
         "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarah\\source\\repos\\MethodsExercise\\MethodsExercise2\\obj\\",
+        "outputPath": "C:\\Users\\sarah\\source\\repos\\MethodExercisePart2\\MethodExercisePart2\\MethodExercisePart2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
