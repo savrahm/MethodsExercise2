@@ -10,3 +10,4 @@ C:\Users\sarah\source\repos\MethodExercisePart2\MethodExercisePart2\MethodExerci
 C:\Users\sarah\source\repos\MethodExercisePart2\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.dll
 C:\Users\sarah\source\repos\MethodExercisePart2\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.pdb
 C:\Users\sarah\source\repos\MethodExercisePart2\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.genruntimeconfig.cache
+C:\Users\sarah\source\repos\MethodExercisePart2\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.csprojAssemblyReference.cache

@@ -6,32 +6,32 @@ namespace MethodsExercise2
     {
         public static int Sum(int firstNumber, params int[] numbers)
         {
-            int temp = 0;
+            int temp = firstNumber;
             foreach (int inputNum in numbers)
             {
                 temp += inputNum;
             }
-            return temp + firstNumber;
+            return temp;
         }
 
         public static int Subtract(int firstNumber, params int[] numbers)
         {
-            int temp = 0;
+            int temp = firstNumber;
             foreach (int inputNum in numbers)
             {
-                temp += inputNum;
+                temp -= inputNum;
             }
-            return firstNumber - temp;
+            return temp;
         }
 
         public static int Multiply(int firstNumber, params int[] inputNumbers)
         {
-            int temp = 1;
+            int temp = firstNumber;
             foreach (int inputNum in inputNumbers)
             {
                 temp *= inputNum;
             }
-            return temp * firstNumber;
+            return temp;
         }
 
         public static int Divide(int firstNumber, params int[] inputNumbers)
